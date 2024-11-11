@@ -1,0 +1,8 @@
+specVersion: "2.5"
+metadata:
+  name: ns.incidents
+resources:
+  configuration:
+    paths:
+      webapp: app/incidents/webapp
+type: application
