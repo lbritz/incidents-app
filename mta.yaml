@@ -136,4 +136,3 @@ build-parameters:
     - npm ci
     - npx cds build --production
     - mkdir -p resources
-    - npm run-script lint
